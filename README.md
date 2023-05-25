@@ -24,7 +24,7 @@ Here are some cool projects I've developed to showcase my backend skills using P
 3. **Pilot Assist**: VueJS frontend project to utilize both the routes and naips API's. (GitHub repository: [link](https://github.com/chrisg06/pilot-assist))
    - Technologies used: Typescript, VueJS, TailwindCSS
 
-4. **vatSys Dataset Management Website**: A WIP Django full-stack application to create, manage and host datasets for the virtual ATC client vatSys. (GitHub repository: [link](https://github.com/username/repository))
+4. **vatSys Dataset Management Website**: A WIP Django full-stack application to create, manage and host datasets for the virtual ATC client vatSys.
    - Technologies used: Python, Django, Javascript, BootstrapCSS, MySQL
    
 ## My Stats 📊
