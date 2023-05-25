@@ -18,7 +18,7 @@ Here are some cool projects I've developed to showcase my backend skills using P
 1. **NAIPS API**: A system to provide aviation data from Airservices Australia in a usable format for developers (GitHub repository: [link](https://github.com/chrisg06/naips-api))
    - Technologies used: Python, FastAPI, MongoDB, Redis
 
-2. **Routes API**: Simple NestJS API to host aviation routes within Australia. Provides management endpoints to upload batch data as well as manage individual routes. (GitHub repository: [link](https://github.com/chrisg06/routes-api))
+2. **Routes API**: Simple NestJS API to provide aviation routes within Australia. Provides management endpoints to upload batch data as well as manage individual routes. (GitHub repository: [link](https://github.com/chrisg06/routes-api))
    - Technologies used: Typescript, NestJS, MySQL
 
 3. **Pilot Assist**: VueJS frontend project to utilize both the routes and naips API's. (GitHub repository: [link](https://github.com/chrisg06/pilot-assist))
