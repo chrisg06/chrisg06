@@ -27,9 +27,6 @@ Here are some cool projects I've developed to showcase my backend skills using P
 4. **vatSys Dataset Management Website**: A WIP Django full-stack application to create, manage and host datasets for the virtual ATC client vatSys.
    - Technologies used: Python, Django, Javascript, BootstrapCSS, MySQL
    
-## My Stats 📊
-   [![Hazz Github Stats](https://github-readme-stats.vercel.app/api?username=chrisg06&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Let's Connect! 🤝
 
 I'm always excited to collaborate, learn new things, and explore opportunities. Feel free to reach out to me through any of the following channels:
