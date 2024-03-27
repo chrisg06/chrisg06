@@ -15,7 +15,7 @@ I specialize in the following technologies for backend development:
 
 Here are some cool projects I've developed to showcase my backend skills using Python and TypeScript:
 
-1. **NAIPS API**: A system to provide aviation data from Airservices Australia in a usable format for developers (Docs: [link](https://api.chrisgardiner.org/api)
+1. **NAIPS API**: A system to provide aviation data from Airservices Australia in a usable format for developers (Docs: [link](https://api.chrisgardiner.org/api))
    - Technologies used: Python, FastAPI, MongoDB, Redis
 
 2. **Routes API**: Simple NestJS API to provide aviation routes within Australia. Provides management endpoints to upload batch data as well as manage individual routes. (GitHub repository: [link](https://github.com/chrisg06/routes-api))
